@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/1175860" alt="Adfinis" width="120" />
+<img src="./lunkina.png" alt="Adfinis" width="360" />
 
 # Adfinis
 
